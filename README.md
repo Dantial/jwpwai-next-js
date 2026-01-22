@@ -1,2 +1,4 @@
 # Daniel Monkiewicz - nr indeksu: 20514
-W tym repozytorium znajdują się projekty dotyczące frameworka Next.js, tworzone w ramach laboratorium „Języków wysokiego programowania w aplikacjach internetowych”.
+W tym repozytorium znajduje się projekt dotyczący frameworka Next.js, tworzony w ramach laboratorium „Języków wysokiego programowania w aplikacjach internetowych”.
+
+Link do wersji produkcyjnej aplikacji: 
